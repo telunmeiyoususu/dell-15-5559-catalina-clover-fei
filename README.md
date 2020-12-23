@@ -9,6 +9,8 @@ DELL-15-5559 Catalina clover -efi
 网卡：英特尔 Dual Band Wireless AC 3160
 
 工作情况：
+catalina 10.15.7
+
 显卡内建，原生支持，ig-platform-id：0x19160000。
 网卡：有线网卡good，无线网卡good（intel无线网卡驱动网上已有教程 大家自行搜索）。
 电源：good(支持睡眠)。
